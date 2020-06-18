@@ -1,5 +1,5 @@
 # Darxo
-This is an arcade game and was team project. The final version is availabe in playstore . Do check it out
+This is an arcade game and was built as team. The final version is availabe in playstore . Do check it out
 
 https://play.google.com/store/apps/details?id=com.TheOmegaWolfCorp.Darxo
 
